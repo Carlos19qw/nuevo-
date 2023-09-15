@@ -1,0 +1,3 @@
+# nuevo-
+Este es el proyecto 3 atrasado... perdon profe...
+saque de la api la longitud y las regiones lo modifique y pues use varios .map
